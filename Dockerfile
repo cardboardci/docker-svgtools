@@ -1,2 +1,2 @@
-FROM alpine:3.6
-RUN apk add --update --no-cache librsvg
+FROM alpine:3.8
+RUN apk add --no-cache librsvg=2.40.17-r0
