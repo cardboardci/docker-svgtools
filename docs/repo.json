@@ -1,0 +1,8 @@
+{
+  "name": "docker-svgtools",
+  "tagline": "Tools for working with Scalable Vector Graphics (SVG) files.",
+  "license": {
+    "name": "MIT"
+  },
+  "tags": ["docker", "svg", "graphics"]
+}
