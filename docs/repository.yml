@@ -1,0 +1,10 @@
+---
+name: Docker SVG Tools
+slug: docker-svgtools
+project: cardboardci
+namespace: []
+description: Tools for working with Scalable Vector Graphics (SVG) files
+license:
+  name: MIT
+tags:
+  - docker
