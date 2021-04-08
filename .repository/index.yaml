@@ -1,0 +1,17 @@
+slug: docker-svgtools
+description: Tools for working with Scalable Vector Graphics (SVG) files
+project: cardboardci
+namespace: docker
+status: archived
+icon: icon.svg
+license:
+  type: MIT
+  content: Jonathan Beverly <jrbeverly>
+  year: 2019
+topics: |-
+  [
+    "dockerfile",
+    "svg",
+    "png",
+    "svg-editor"
+  ]
